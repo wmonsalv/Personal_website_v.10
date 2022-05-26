@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital@0;1&family=Work+Sans:ital,wght@0,400;0,800;1,500&display=swap');
+
+html,body {
+    font-family: 'Raleway', sans-serif;
+    padding: 1em 2em;
+    font-size: 18px;
+  }
+  
+  h1,h2 {
+    font-weight: 200;
+    margin: 0.4em 0;
+  }
+
+  h1 { 
+    font-size: 3.5em;
+    color: black; }
+
+  .intro{
+      top:100px;
+      position:relative;
+  }
+
+#profile_pic{
+    position:relative;
+    align-items: left;
+    max-height:900px;
+    top: 150px;
+    width:500px;
+    right:10px;
+    box-shadow: 10px 10px 5px rgb(224,224,224);
+
+}
+
+
+
+.float-right{
+    max-height:400px;
+    width:300px;
+}
+
+.second_part{
+  margin-top:250px;
+}
+
+.third_part{
+  margin-top:10px;
+}
+
+#About_Me:hover{
+  color:rgb(100,149,237);
+}
+
+#Skills:hover{
+  color:rgb(89, 132, 211);
+}
+
+
+
+
