@@ -4,7 +4,6 @@ html,body {
     font-family: 'Raleway', sans-serif;
     padding: 1em 2em;
     font-size: 18px;
-    padding:20px;
   }
   
   h1,h2 {
@@ -31,9 +30,8 @@ html,body {
     box-shadow: 10px 10px 5px rgb(224,224,224);
 }
 
-
-.profilepic_col{
-  padding:0 20px;
+.intro{
+  font-size: 13px;
 }
 
 .float-right{
@@ -49,13 +47,7 @@ html,body {
   margin-top:10px;
 }
 
-#About_Me:hover{
-  color:rgb(100,149,237);
-}
 
-#Skills:hover{
-  color:rgb(89, 132, 211);
-}
 
 
 
