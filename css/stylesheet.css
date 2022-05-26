@@ -4,6 +4,7 @@ html,body {
     font-family: 'Raleway', sans-serif;
     padding: 1em 2em;
     font-size: 18px;
+    padding:20px;
   }
   
   h1,h2 {
@@ -25,13 +26,15 @@ html,body {
     align-items: left;
     max-height:900px;
     top: 150px;
-    width:500px;
+    width:300px;
     right:10px;
     box-shadow: 10px 10px 5px rgb(224,224,224);
-
 }
 
 
+.profilepic_col{
+  padding:0 20px;
+}
 
 .float-right{
     max-height:400px;
