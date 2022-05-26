@@ -25,7 +25,7 @@ html,body {
     align-items: left;
     max-height:900px;
     top: 150px;
-    width:300px;
+    width:250px;
     right:10px;
     box-shadow: 10px 10px 5px rgb(224,224,224);
 }
@@ -47,6 +47,17 @@ html,body {
   margin-top:10px;
 }
 
+p{
+  text-align: center;
+}
+
+#About_Me{
+  text-align: center;
+}
+
+#Skills{
+  text-align: center;
+}
 
 
 
