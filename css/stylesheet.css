@@ -64,11 +64,19 @@ p{
   text-align: center;
 }
 
-#animation_words{
-  font-size: 60%;
+.carousel{
+  text-align: center;
+  padding: 20px;
 }
 
 
+.carousel-control-next-icon{
+  background-color:black;
+}
+
+.carousel-control-prev-icon{
+  background-color:black;
+}
 
 
 
