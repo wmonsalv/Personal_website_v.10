@@ -116,10 +116,6 @@ ul.social-network li {
 
 /* Social Media */
 
-.social-network a.icoFacebook:hover {
-	background-color:#3B5998;
-}
-
 .social-network a.icoLinkedin:hover {
 	background-color:#007bb7;
 }
